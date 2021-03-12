@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1615575401 source:d:\elte\2.félév\objektumelvû programozás\beadando\kisbeadhomerseklet\homerseklet\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
